@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-datetimepicker-pt-br",
+  "version": "1.0.0",
+  "main": [
+    "bootstrap-datetimepicker.pt-BR.js"
+  ],
+  "authors": [
+    "Jair Batista Junior"
+  ],
+  "keywords": [
+    "bootstrap-datetimepicker pt-BR",
+    "bootstrap-datetimepicker",
+    "bootstrap",
+    "bower"
+  ],
+  "license": "CC BY 3.0 -- http://creativecommons.org/licenses/by/3.0/",
+  "ignore": [
+  	"README.md",
+  	"bower.json",
+  	"LICENSE"
+  ]
+}
